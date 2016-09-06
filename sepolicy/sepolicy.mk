@@ -4,4 +4,4 @@
 #
 
 BOARD_SEPOLICY_DIRS += \
-    vendor/du/sepolicy
+    vendor/validus/sepolicy
